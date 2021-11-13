@@ -1,5 +1,9 @@
 # Example of broken django project with coverage 6+.
 
+This repo was created to help debug https://github.com/nedbat/coveragepy/issues/1203, which is now resolved.
+
+https://github.com/nedbat/coveragepy/commit/79753a1476a407b4fe1fad69081395c497d53d21
+
 ## Prep a virtualenv first
 
 ```
